@@ -12,4 +12,5 @@ const config = {
 // 3. extend the theme
 const theme = extendTheme({ config })
 
+// this is part of export
 export default theme
